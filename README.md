@@ -67,16 +67,8 @@ A Valentine's Day card project featuring stunning animations.
 
 ### 🌐 **How to Reach Me:**
 
-- **Email**: [tee.nathaniel.aurelio.flammatc92@gmail.com](mailto:tee.nathaniel.aurelio.flammatc92@gmail.com)
-- **Instagram**: [@tee_nathaniel](https://instagram.com/tee_nathaniel)
+- **Email**: [teenathanielaurelioflammafc21@gmail.com](mailto:teenathanielaurelioflammafc21@gmail.com)
+- **Instagram**: [@tee_nathniel](https://instagram.com/tee_nathniel)
 - **Portfolio**: [LinkTree](https://linktr.ee/nathanieltee)
-
----
-
-### 📊 **GitHub Stats:**
-
-![Nathaniel Tee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanielTee&show_icons=true&theme=radical)
-
----
 
 Let’s connect and build something amazing together!
