@@ -7,12 +7,12 @@ I'm passionate about visual arts, poetry, storytelling, and creative coding conc
 
 ### 🧑‍💻 **About Me:**
 - 🌱 I’m currently learning **Python** for back-end development and experimenting with **CSS** animations for front-end projects.
-- 🌟 I enjoy merging my creative vision with coding, particularly in web development using **HTML/CSS/JavaScript**.
+- 🌟 I enjoy merging my creative vision with coding, particularly in web development using **HTML/CSS**.
 - 🎯 **Goals**: To craft interactive projects that spark creativity and innovation. I love exploring unique storytelling methods through art and tech!
 - 🤝 **Open for Collaboration!**  
    I’m always open to collaborate on a variety of creative and coding projects. Whether it's visual art, poetry, short stories, comics, or coding (front-end/back-end), feel free to reach out to me! Let’s create something amazing together.  
 
-- 💬 Fun fact: Despite having partial color blindness, I love playing with colors and making art that speaks!
+- 💬 Fun fact: I have a deep love for cars and can spend hours diving into a good novel or comic. Oh, and I have partial color blindness, but that doesn’t stop me from creating cool art!
 
 ---
 
