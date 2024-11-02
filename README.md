@@ -28,6 +28,11 @@ Sebuah website perkenalan sederhana yang aku buat untuk memperkenalkan diriku se
 - **Technologies**: HTML, CSS, JavaScript
 - **Purpose**: Introduction page
 
+#### 3. [Pameran Seni!](https://nathanieltee.github.io/uprakseni/)
+Sebuah website yang digunakan sebagai projek ujian praktek seni budaya, Jelajahi setiap halaman Pameran.
+- **Technologies**: HTML, CSS, JavaScript
+- **Purpose**: Ujian Praktek Seni Budaya
+
 ---
 
 ### 📂 **Random Projects**:
